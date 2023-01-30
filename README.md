@@ -1,3 +1,13 @@
+## 요약 정리 누락 현황 ❌
+
+| Github ID | 주차 |
+| --- | --- |
+| JaeHyeonSim | - |
+| ddyearn | - |
+| Clover0817 | - |
+| spacewalk00 | - |
+| Li5ht | - |
+
 ## **Rule**
 - 본인의 브랜치 및 폴더 생성
 - README.md 파일 추가
