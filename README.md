@@ -5,7 +5,7 @@
 | JaeHyeonSim | - |
 | ddyearn | - |
 | Clover0817 | 1주차, 2주차 |
-| Li5ht | 1주차 - 4주차 |
+| Li5ht | 1주차 ~ 4주차 |
 
 ## **Rule**
 - 본인의 브랜치 및 폴더 생성
